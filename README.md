@@ -1,0 +1,1 @@
+# project_for_ruby_training
